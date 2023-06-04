@@ -2,4 +2,7 @@
 export default defineNuxtConfig({
   pages: true,
   modules: ["@nuxtjs/tailwindcss"],
+  css: [
+    "assets/styles/global.css",
+  ],
 });

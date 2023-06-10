@@ -6,6 +6,7 @@
       <div class="select-none flex flex-col gap-2 mt-10 sm:absolute sm:top-1/2 sm:-translate-y-1/2">
         <h1 class="text-[7vw] sm:text-[3vw]">{{ $t("role") }}</h1>
         <h2 class="text-[8vw] sm:text-[4vw] font-bold">Igor Duarte</h2>
+        <Button class="w-6/12">Contate-me</Button>
       </div>
       <div class="flex absolute bottom-2.5 mx-auto inset-x-0 w-max">
         <SVGArrowScroll class="cursor-pointer"/>

@@ -18,7 +18,11 @@ module.exports = {
       },
       gray: {
         100: '#7D7D7D'
-      }
+      },
+      white: '#FFF'
     },
+    backgroundImage: {
+      'right-to-left-waves': "url('/assets/images/right_to_left_waves.svg')"
+    }
   },
 };

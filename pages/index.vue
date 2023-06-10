@@ -1,3 +1,3 @@
 <template>
-  <div class="bg-longing">tesste</div>
+  <SectionContact />
 </template>
